@@ -24,7 +24,7 @@
 
 
 
-html ,body{
+html, body{
     height: 90%;
     box-sizing: border-box;
     background-color: var(--cor-primaria);
