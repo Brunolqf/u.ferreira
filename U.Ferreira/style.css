@@ -24,8 +24,8 @@
 
 
 
-body{
-    height: 100vh;
+html ,body{
+    height: 100%;
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
